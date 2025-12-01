@@ -1,2 +1,2 @@
 # pfquest-mounts
-Adds rentable mounts as an option to the pfQuest UI (Turtle WoW)
+Shows rentable mounts as an icon
