@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffQuest mounts
+## Author: |c74a12eMatcha|cffffffff
+## Notes: Adds rentable mounts option to pfQuest
+## Version: 0.1.0
+## Dependencies: pfQuest
+
+main.lua
